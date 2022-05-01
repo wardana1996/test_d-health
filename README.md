@@ -1,3 +1,4 @@
 di sini saya menggunakan laravel 8 
-silahkan lakukan perintah di terminal "php artisan migrate"
+silahkan buat database dengan nama 'obat'
+setelah itu lakukan perintah di terminal "php artisan migrate"
 setelah itu lakukan perintah "php artisan serve"
